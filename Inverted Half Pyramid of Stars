@@ -6,3 +6,4 @@ for ($a = 1; $a <= $jumlah1; $a++) {
     }
     echo "<br>";
 }
+?>
